@@ -8,7 +8,7 @@
 
 ---
 
-## Un'attività sociale
+## Un impegno sociale
 
 ### Volontariato alla Croce Rossa
 
