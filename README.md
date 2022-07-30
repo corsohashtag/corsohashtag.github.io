@@ -13,7 +13,7 @@
 
 ---
 
-## Esperienze
+## Esperienze e interessi
 
 1. [Un esperienza lavorativa in biblioteca](biblioteca.md)
 2. [Un impegno sociale](croce-rossa.md)
