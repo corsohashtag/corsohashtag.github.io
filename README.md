@@ -20,4 +20,6 @@
 3. [Un’attività sportiva](pallavolo.md)
 4. [Un hobby](fotografia.md)
 
-
+---
+Copyright © Ulrico Hoepli Editor S.p.A. 2023
+Immagini: CC0
