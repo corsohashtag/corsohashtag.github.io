@@ -18,4 +18,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut scelerisque pulvinar
 
 ---
 Copyright © Ulrico Hoepli Editor S.p.A. 2023  
-Immagini: Pixabay CC0, CC0
+Immagini: Pixabay CC0, CC0  
+`;)`
