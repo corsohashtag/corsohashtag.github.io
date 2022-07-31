@@ -22,5 +22,5 @@
 
 ---
 Copyright © Ulrico Hoepli Editor S.p.A. 2023  
-Immagini: CC0
-
+Immagini: CC0  
+`;)`
