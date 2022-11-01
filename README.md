@@ -5,8 +5,9 @@
 ![Libri](books.png)
 
 1. [Informatica](informatica.md)
-2. ...
+2. Matematica
+3. Fisica
+4. Filosofia
 
 ---
-Copyright © Hoepli, 2023  
-Immagini: CC0
+Licenza immagini CC0
