@@ -4,10 +4,8 @@
 
 ![Libri](books.png)
 
-1. [Un esperienza lavorativa in biblioteca](biblioteca.md)
-2. [Un impegno sociale](croce-rossa.md)
-3. [Un’attività sportiva](pallavolo.md)
-4. [Un hobby](fotografia.md)
+1. [Informatica](informatica.md)
+2. ...
 
 ---
 Copyright © Hoepli, 2023  
